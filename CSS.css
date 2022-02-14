@@ -2,8 +2,7 @@
 body
 {
     margin:0px;
-    background: linear-gradient(135deg, #ff415f, #b1415f);
-    background-image: url("Image.jpeg");
+    background: linear-gradient(135deg, #bce4f8, #bc66f8);
     background-repeat: no-repeat;
     background-size: cover;
     color: black;
