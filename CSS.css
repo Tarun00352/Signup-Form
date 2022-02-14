@@ -3,8 +3,6 @@ body
 {
     margin:0px;
     background: linear-gradient(135deg, #bce4f8, #bc66f8);
-    background-repeat: no-repeat;
-    background-size: cover;
     color: black;
     font-family:Cursive;
 }
