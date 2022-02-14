@@ -3,7 +3,7 @@ body
 {
     margin:0px;
     background: linear-gradient(135deg, #ff415f, #b1415f);
-    background-image: url("Image.jpg");
+    background-image: url("Image.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     color: black;
